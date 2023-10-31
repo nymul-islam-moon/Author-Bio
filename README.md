@@ -1,4 +1,4 @@
-# WordPress Plugin Documentation - Social Media Links
+# Author-Bio Plugin Documentation
 
 ## Overview
 
