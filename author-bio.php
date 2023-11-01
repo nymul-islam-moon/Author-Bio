@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Author-Bio
- * Plugin URI:        https://github.com/nymul-islam-moon
+ * Plugin URI:        https://github.com/nymul-islam-moon/Author-Bio
  * Description:       It will contains author information and additional links
  * Version:           1.0.0
  * Requires at least: 5.2
@@ -20,7 +20,7 @@
  * Text Domain:       author-bio
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Update URI:        https://github.com/nymul-islam-moon
+ * Update URI:        https://github.com/nymul-islam-moon/Author-Bio
  */
 
 if ( !defined( 'ABSPATH' ) ) {
