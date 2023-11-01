@@ -32,7 +32,7 @@
  * This is an add-on for WordPress
  * http://wordpres.org/
  *
- * *********
+ * *********************************************************************
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU Geneal Public License as published by
  * the Free Software Foundation; eiher version 2of the License, or
@@ -46,7 +46,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program; if not, write to the Free Software
  * Ring Road, Mohammadpur, Dhaka, Bangladesh.
- *  ********************************************************************
+ * ********************************************************************
  *
  */
 
