@@ -23,6 +23,34 @@
  * Update URI:        https://github.com/nymul-islam-moon/Author-Bio
  */
 
+/**
+ * Copyright (c) 2023 Nymul Islam ( email: towkir1997islam@gmail.com ). All rights reserved.
+ *
+ * Released under the GPL license
+ * htp://www.opensource.org/licenses/gpl-license.php
+ *
+ * This is an add-on for WordPress
+ * http://wordpres.org/
+ *
+ * *********
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU Geneal Public License as published by
+ * the Free Software Foundation; eiher version 2of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope hat it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Ring Road, Mohammadpur, Dhaka, Bangladesh.
+ *  ********************************************************************
+ *
+ */
+
+// don't call the file directly
 if ( !defined( 'ABSPATH' ) ) {
     die( 'You are not allow to access this area' );
 }
